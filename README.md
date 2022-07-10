@@ -1,2 +1,6 @@
 # Groot-Translator
- It can change english sentence into groot language
+This website is made for translating the English sentence into the Groot Language. 
+
+Preview:
+
+![Screenshot_4](https://user-images.githubusercontent.com/73245914/178131795-9d108a49-14e0-4fa4-a86e-376b47e8a51e.jpg)
