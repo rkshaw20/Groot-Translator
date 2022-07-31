@@ -1,5 +1,6 @@
 # Groot-Translator
-This website is made for translating the English sentence into the Groot Language. 
+This website is made for translating the English sentence into the Groot Language. <br>
+Tech Stack used: HTML, CSS, and JavaScript.
 
 Preview:
 
